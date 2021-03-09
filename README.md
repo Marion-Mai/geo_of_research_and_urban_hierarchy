@@ -4,7 +4,7 @@ This git repository contains the scripts and data needed to reproduce the figure
 "Geography of research and urban hierarchy", to be published in _Centrality and hierarchy of networks and territories_, coordinated by Julie Fen-Chong. © ISTE Editions 2021
 
 It includes: 
-- The first draft and original version of the chapter in French: "Géographie de la recherche et hiérarchie urbaine" _in_ .pdf
+- The first draft and original version of the chapter in French: "Géographie de la recherche et hiérarchie urbaine" in .pdf
 - "Figures.R": a script to plot the relations between academic publications, academic staff and urban areas population in France and the UK
 - "Tables.R": a script to measure the spatial distribution of the scientific production by discipline in France and the UK
 - Figures 1 and 2 of the chapter in .svg and .png
