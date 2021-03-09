@@ -12,7 +12,7 @@ It includes:
 - The data needed to generate these figures and tables (except for the French social data concerned by statistical secrecy).
 
 ## Data sources:
-- **Publication data**: Web of Science/OST-HCERES (articles, reviews, letters), 2014. Fractionation at the level of urban areas (Maisonobe et al., 2018)
+- **Publication data**: Web of Science/OST-HCERES (articles, reviews, letters), 2014. Fractionation at the level of urban areas (Maisonobe _et al._, 2018)
 - **Population data**: 2011 UK Census (ONS, NISRA and Public Health Scotland) collected at the ward level and then clustered at the level of NETSCITY urban agglomerations by M. Maisonobe; 2012 France Census (INSEE) collected at the municipality level and then clustered at the level of NETSCITY urban agglomerations by L. Jégou.
 - **Staff data**: 
     - **UK**: ETER (based on HESA, 2014) and UK Universities websites. Personnel data for 21 (out of 47) multi-site universities in the United Kingdom have been estimated based on information available on university websites. It concerns Anglia Ruskin U, Bangor U, Coventry U, Cranfield U, Heriot-Watt U, Manchester Met U, SRUC, The U of Exeter, The U of Glasgow, The U of Greenwich, The U of Hull, The U of Stirling, The U of Wolverhampton, UWS, UCLAN, U of Chester, U of Cumbria, U of Derby, U of Nottingham, U of Ulster, and UWTSD.The information to make these estimates for the 26 remaining multi-site universities was missing.
