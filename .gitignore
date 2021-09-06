@@ -4,6 +4,7 @@
 
 # Data
 /data/fr/with_DADS/
+/data/geo
 
 # Session Data files
 .RData
