@@ -27,4 +27,4 @@ Description: https://www.insee.fr/fr/statistiques/3536754. We used PCS 342B (“
 We thank PROGEDO-ADISP for sharing these social data on Higher Education and Research staff. We were not allowed to share them publicly on this repository. 
 These data have first been used in: Grossetti, M., Maisonobe, M., Jégou, L., Milard, B., & Cabanac, G. (2020). Spatial organisation of French research from the scholarly publication standpoint (1999-2017): Long-standing dynamics and policy-induced disorder. EPJ Web Conf., 244. https://doi.org/10.1051/epjconf/202024401005
 
-Last update: 2021-03-09
+Last update: 2022-02-04
