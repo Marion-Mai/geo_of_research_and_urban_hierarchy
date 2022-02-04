@@ -1,5 +1,11 @@
 # Geography of research and urban hierarchy
 
+To cite this repository: 
+
+Scripts and data for the chapter: "Maisonobe, Marion. Géographie des activités de recherche et hiérarchies urbaines, in _Centralités et hiérarchies des réseaux et des territoires_, coordinated by Julie Fen-Chong. ISTE Editions. Forthcoming.", Github: Marion-Mai/geo_of_research_and_urban_hierarchy, DOI: (10.5281/zenodo.5973814)[https://doi.org/10.5281/zenodo.5973813]
+
+[![DOI](https://zenodo.org/badge/346072354.svg)](https://zenodo.org/badge/latestdoi/346072354)
+
 This git repository contains the scripts and data needed to reproduce the figures and tables of the chapter:
 "Geography of research and urban hierarchy", to be published in _Centrality and hierarchy of networks and territories_, coordinated by Julie Fen-Chong. © ISTE Editions 2021
 
