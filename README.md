@@ -2,7 +2,7 @@
 
 To cite this repository: 
 
-Maisonobe, M. (2022). Scripts and data for the chapter: "Maisonobe, M. - Géographie des activités de recherche et hiérarchies urbaines, in Centralités et hiérarchies des réseaux et des territoires, coordinated by Julie Fen-Chong. ISTE Editions.", [Marion-Mai/geo_of_research_and_urban_hierarchy](https://github.com/Marion-Mai/geo_of_research_and_urban_hierarchy), DOI: [10.5281/zenodo.5973814](https://doi.org/10.5281/zenodo.5973813)
+Maisonobe, M. (2022). Scripts and data for the chapter: "Maisonobe, M. (forthcoming). Géographie des activités de recherche et hiérarchies urbaines, in Centralités et hiérarchies des réseaux et des territoires, coordinated by Julie Fen-Chong. ISTE Editions.", [Marion-Mai/geo_of_research_and_urban_hierarchy](https://github.com/Marion-Mai/geo_of_research_and_urban_hierarchy), DOI: [10.5281/zenodo.5973814](https://doi.org/10.5281/zenodo.5973813)
 
 [![DOI](https://zenodo.org/badge/346072354.svg)](https://zenodo.org/badge/latestdoi/346072354)
 
