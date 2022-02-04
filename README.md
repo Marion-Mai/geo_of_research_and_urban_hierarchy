@@ -7,7 +7,7 @@ Maisonobe, M. (2022). Scripts and data for the chapter: "Maisonobe, M. (forthcom
 [![DOI](https://zenodo.org/badge/346072354.svg)](https://zenodo.org/badge/latestdoi/346072354)
 
 This git repository contains the scripts and data needed to reproduce the figures and tables of the chapter:
-"Geography of research and urban hierarchy", to be published in _Centrality and hierarchy of networks and territories_, coordinated by Julie Fen-Chong. © ISTE Editions 2021
+"Geography of research and urban hierarchy", to be published in _Centrality and hierarchy of networks and territories_, coordinated by Julie Fen-Chong. © ISTE Editions 2022
 
 It includes: 
 - The first draft and original version of the chapter in French: "Géographie de la recherche et hiérarchie urbaine" in .pdf
