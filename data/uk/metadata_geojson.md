@@ -1,0 +1,18 @@
+
+- "idcomposite": unique id of the urban area (eg. "AAPOLY24952")
+- "nom_agglocomposite": name of the urban area ( eg. "TEDDINGTON")
+- "province": state in which the urban area is located (eg. "ENGLAND")
+- "pays": country in which the urban area is located (eg. "UNITED-KINGDOM")
+- "year": publication year (eg. 2014)
+- "nb_pub": fractionated number of publications in the discipline (eg. 24.72)
+- "discipline": code of the discipline (eg. "D1"), 
+- "astaff2014": number of HER staff in 2014 (eg. 1355), 
+- "nbestim": number of universities within the area for which the staff population is solely an estimation (with a high level of uncertainty)
+- "nbuniv": number of distinct universities
+-  "pop2011": total number of inhabitants in 2011 (eg. 1070437)
+- "label": label of the spatial entity (eg. "TEDDINGTON")
+- "label_ds": label of the discipline (eg. "Basic biology"), 
+- "label_dsh": abbreviation of the discipline label (eg. "Bbio")
+- "label_d": other label for the discipline (eg. "Basic biology")
+- "geometry": type of geometry (eg. "type": "Point"), 
+- "coordinates": geographical coordinates of the urban area's centroid (eg. -2.05, 51.99)
